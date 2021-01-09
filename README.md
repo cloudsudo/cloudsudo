@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on building Infrastructure with Terraform and AWS
+- 🔭 I’m currently working on building Web and Mobile Infrastructure with Terraform and AWS
 - 🌱 I’m currently learning Business Management
 - 👯 I’m looking to collaborate on YouTube
 - 🤔 I’m looking for help with Japanese Language
